@@ -1,6 +1,6 @@
 apple 
-banana
-cherry 
 mango 
-orange 
 watermelon 
+cherry 
+orange 
+banana
